@@ -2,11 +2,9 @@
 Criando o primeiro repositório
 <<<<<<< HEAD
 Teste 3
+Quero restar se está dando push sem erro
 
 Quero testar se está dando push
 
 
 
-=======
-Teste 1
->>>>>>> b8d34444284825a359fba5f587fbdf96bc82c746
